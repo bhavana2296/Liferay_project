@@ -1,0 +1,4 @@
+Bundle-Name: ADT-example
+Bundle-SymbolicName: ADT.example
+Bundle-Version: 1.0.0
+Export-Package: ADT.example.constants

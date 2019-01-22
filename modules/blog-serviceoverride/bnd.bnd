@@ -1,0 +1,3 @@
+Bundle-Name: blog-serviceoverride
+Bundle-SymbolicName: com.liferay.docs.serviceoverride
+Bundle-Version: 1.0.0

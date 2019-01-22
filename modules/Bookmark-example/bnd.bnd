@@ -1,0 +1,4 @@
+Bundle-Name: Bookmark-example
+Bundle-SymbolicName: bookmark.example
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.expando.web;bundle-version="1.0.12"

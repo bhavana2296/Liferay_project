@@ -1,0 +1,4 @@
+Bundle-Activator: Sample.Guj1.Activator
+Bundle-Name: Sample-Guj1
+Bundle-SymbolicName: Sample.Guj1
+Bundle-Version: 1.0.0
